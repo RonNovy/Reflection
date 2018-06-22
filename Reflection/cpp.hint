@@ -1,0 +1,4 @@
+
+#define _CTTI_MACRO__(TYPE, NAME)
+#define decl_reflections(name, ...)
+#define decl_reflectable(name)
